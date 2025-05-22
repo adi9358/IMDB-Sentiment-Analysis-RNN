@@ -1,4 +1,6 @@
-tensorflow
-numpy 
-pandas==3.10
+tensorflow==2.15.1
 streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
